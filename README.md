@@ -3,6 +3,6 @@ DEFAULT SETTING:
 Apache server:
 account:root
 password:root
+it is able to change the setting(conn/conn.php)
 
-please feel free to let me know
 development tool: Apache server, python and python package including (flask, flask_cors)
