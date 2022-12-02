@@ -16,6 +16,7 @@
 <img width="1440" alt="螢幕截圖 2022-12-02 下午3 21 26" src="https://user-images.githubusercontent.com/101496194/205237716-f57cb700-d818-42e6-8509-2fd38242e8ae.png">
 <img width="1432" alt="螢幕截圖 2022-12-02 下午3 21 42" src="https://user-images.githubusercontent.com/101496194/205237754-3d6f9f20-eeac-408f-ab94-a00dd1639df0.png">
 <img width="1401" alt="螢幕截圖 2022-12-02 下午3 21 51" src="https://user-images.githubusercontent.com/101496194/205237771-64682043-589c-4297-9ac5-d5b0d489408e.png">
+
 ## Manager
 <img width="1439" alt="螢幕截圖 2022-12-02 下午3 22 37" src="https://user-images.githubusercontent.com/101496194/205237906-03136ae9-57bd-4571-92cb-ff6f2de7852f.png">
 <img width="1429" alt="螢幕截圖 2022-12-02 下午3 22 48" src="https://user-images.githubusercontent.com/101496194/205237935-e5bc8e86-b479-453a-9869-5e942c1ec703.png">
